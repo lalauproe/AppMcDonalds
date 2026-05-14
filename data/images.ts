@@ -21,10 +21,4 @@ export const AppImages = {
     combocheddar: require('@/assets/images/combo-cheddar-duplo.png') as ImageSourcePropType,
     combobigmac: require('@/assets/images/combo-Duplo-Big-Mac.png') as ImageSourcePropType,
     combochicken: require('@/assets/images/combo-McCrispy-Chicken-Elite.png') as ImageSourcePropType,
-    
-
-
-
-
-
-}
+};
